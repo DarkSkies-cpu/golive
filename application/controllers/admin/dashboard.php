@@ -1,7 +1,7 @@
 <?php
 /**
  * ark Admin Panel for Codeigniter 
- * Author: Abhishek R. Kaushik
+ * Author: = DarkSkies
  * downloaded from http://devzone.co.in
  *
  */
